@@ -1,0 +1,37 @@
+.red{
+   background-color:red;
+   padding-top: 15px;
+}
+.next{
+    color :blue;
+}
+
+.shadow
+ {
+    box-shadow: 10px 10px 8p 
+    0 100px 500px rgba(0, 0, 0, 0.07)
+  ;
+  }
+  .green{
+      background-color: green;
+  }
+  .yellow{
+      background-color: yellow;
+  }
+  .divAll{
+      height: 40px;
+      width: 40px;
+      margin: 0px;
+      justify-content: center;
+      border-radius: 65px;
+     margin-left: 5px;
+
+  }
+  .center {
+    margin: auto;
+    width: 50px;
+    height: 140px;
+    background-color: black;
+    margin-top: 50px;
+    border-radius: 10px ;
+  }
