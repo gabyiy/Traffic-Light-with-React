@@ -6,10 +6,9 @@
     color :blue;
 }
 
-.shadow
+.shadowe
  {
-    box-shadow: 10px 10px 8p 
-    0 100px 500px rgba(0, 0, 0, 0.07)
+    box-shadow: 20px 5px 50px 45px yellow
   ;
   }
   .green{

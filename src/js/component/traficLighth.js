@@ -6,16 +6,16 @@ export function TraficLight() {
 	return (
 		<div className="center">
 			<h1
-				className={`red divAll  ${color === "red" ? "shadow" : null}`}
+				className={`red divAll  ${color === "red" ? "shadowe" : null}`}
 				onClick={() => setColor("red")}></h1>
 			<h1
 				className={`green divAll  ${
-					color === "green" ? "shadow" : null
+					color === "green" ? "shadowe" : null
 				}`}
 				onClick={() => setColor("green")}></h1>
 			<h1
 				className={`yellow divAll ${
-					color === "yellow" ? "shadow" : null
+					color === "yellow" ? "shadowe" : null
 				}`}
 				onClick={() => setColor("yellow")}></h1>
 		</div>
